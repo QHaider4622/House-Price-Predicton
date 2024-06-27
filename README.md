@@ -78,7 +78,7 @@ The models were evaluated using metrics such as R2 Score, Mean Absolute Error (M
 
 ### Best Performing Model
 
-The best performing model was **[Linear Regression]** with an R2 Score of **0.649** and a Mean Absolute Error of **9.796797e+05**.
+The best performing model was **Linear Regression** with an R2 Score of **0.649** and a Mean Absolute Error of **9.796797e+05**.
 
 
 ## References
